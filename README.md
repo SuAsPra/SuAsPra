@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suriyan Loganathan
-- 👀 I’m interested in coding to make some satisfying digital products
+- 👀 I'm passionate about coding and want to develop satisfying digital products
 - 🌱 I’m currently learning Python and Java
 - 😄 Pronouns: ...He/him
 
