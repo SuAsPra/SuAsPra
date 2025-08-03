@@ -18,7 +18,7 @@
 - 🔭 Built exciting projects like:
   - 📚 Full-stack **Anime Wishlist App**
   - 🧮 **Graph Equation Simulator** for data visualisation
-  - 🌐 Multiple **IoT and embedded systems** projects using Arduino
+  - 🌐 Multiple **embedded systems** projects using Arduino
 - 🛰️ Interned at **ISL**, explored drones, remote sensing, and embedded systems
 - As an UG student researcher, currently working on ML based IOT products in VIT chennai campus
 - 📜 Completed **Data Science certification** from freeCodeCamp
