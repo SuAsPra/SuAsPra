@@ -20,9 +20,8 @@
   - 🧮 **Graph Equation Simulator** for data visualisation
   - 🌐 Multiple **embedded systems** projects using Arduino
 - 🛰️ Interned at **ISL**, explored drones, remote sensing, and embedded systems
-- As an UG student researcher, currently working on ML based IOT products in VIT chennai campus
-- 📜 Completed **Data Science certification** from freeCodeCamp
-- 💬 Ask me about **Java, MERN stack, Firebase, DSA, or Arduino**
+- As an UG student researcher, currently working on ML based IOT product in VIT chennai campus
+- 💬 Know about **Java, MERN stack, Firebase, DSA, or Arduino**
 
 > 🧠 *"I turn ideas into impact through code and circuits."*
 
