@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suriyan Loganathan</h1>
-<h3 align="center">🚀 Engineering Student | Backend & Embedded Systems Enthusiast | Future Innovator</h3>
+<h3 align="center">🚀 Engineering Student | Fullstack & Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suriyan-loganathan-b1116b320/" target="_blank">
