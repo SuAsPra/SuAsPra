@@ -21,7 +21,7 @@
   - 🌐 Multiple **embedded systems** projects using Arduino
 - 🛰️ Interned at **ISL**, explored drones, remote sensing, and embedded systems
 - As an UG student researcher, currently working on ML based IOT product in VIT chennai campus
-- 💬 Know about **Java, MERN stack, Firebase, DSA, or Arduino**
+- 💬 Knows about **Java, MERN stack, DSA, Arduino**
 
 > 🧠 *"I turn ideas into impact through code and circuits."*
 
