@@ -1,66 +1,76 @@
 <h1 align="center">Hi 👋, I'm Suriyan Loganathan</h1>
-<h3 align="center">🚀 Engineering Student | Fullstack & Embedded Systems Enthusiast</h3>
+<h3 align="center">🚀 Engineering Student | Full-Stack & Embedded Systems Developer | IoT + AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suriyan-loganathan-b1116b320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/suriyanloganathan/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SuAsPra&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 I'm currently an engineering student passionate about **software development** and **IoT-based innovation**
-- 🔭 Built exciting projects like:
-  - 📚 Full-stack **Anime Wishlist App**
-  - 🧮 **Graph Equation Simulator** for data visualisation
-  - 🌐 Multiple **embedded systems** projects using Arduino
-- 🛰️ Interned at **ISL**, explored drones, remote sensing, and embedded systems
-- As an UG student researcher, currently working on ML based IOT product in VIT chennai campus
-- 💬 Knows about **Java, MERN stack, DSA, Arduino**
+🎓 Engineering student passionate about **software engineering, IoT, and AI systems**  
+🔬 UG researcher working on **ML-based IoT product @ VIT Chennai**  
+🛰️ Internship @ **ISL** — drones, remote sensing & embedded systems
+;) Intership @ **SAHEL** as a web developer
+💡 Love building products that merge **code + hardware**
 
-> 🧠 *"I turn ideas into impact through code and circuits."*
+### 🚀 Featured Projects
+- 📚 **Anime Wishlist (MERN)** — full-stack web app with DB persistence  
+- 🧮 **Graph Equation Simulator** — math visualization tool  
+- 🌍 **Weather Forecast App** — AI-based weather analytics  
+- 🤖 Multiple **Arduino & IoT prototypes**
 
----
+💬 Skills: **Java • MERN • DSA • Arduino • Embedded Systems**
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-</p>
+> 🧠 *“I build intelligent systems that connect software with the physical world.”*
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuAsPra)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuAsPra&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuAsPra&layout=compact&theme=radical" width="45%" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,nodejs,express,mongodb,firebase,arduino,js,html,css" />
 </p>
 
 ---
-### 📫 Reach Me
-📍 Location: India  
-📧 Email: suriyanloganathan@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/suriyan-loganathan-b1116b320](https://www.linkedin.com/in/suriyan-loganathan-b1116b320/)  
-🌐 Portfolio Website: *Coming Soon*
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SuAsPra&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SuAsPra&label=Profile%20views&color=0e75b6&style=flat" alt="SuAsPra" /> </p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuAsPra&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuAsPra&theme=radical" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuAsPra&layout=compact&theme=radical" width="47%" />
+</p>
+
+---
+
+## 📫 Contact
+
+📍 India  
+📧 **suriyanloganathan@gmail.com**  
+🔗 **LinkedIn:** https://linkedin.com/in/suriyan-loganathan-b1116b320  
+🌐 Portfolio: *Coming Soon*
+
+---
+
+<p align="center">
+  ⭐️ From <b>Suriyan Loganathan</b>
+</p>
