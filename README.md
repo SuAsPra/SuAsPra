@@ -18,7 +18,9 @@
 🎓 Engineering student passionate about **software engineering, IoT, and AI systems**  
 🔬 UG researcher working on **ML-based IoT product @ VIT Chennai**  
 🛰️ Internship @ **ISL** — drones, remote sensing & embedded systems
+
 ;) Intership @ **SAHEL** as a web developer
+
 💡 Love building products that merge **code + hardware**
 
 ### 🚀 Featured Projects
