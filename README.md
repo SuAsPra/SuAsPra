@@ -26,9 +26,7 @@
 * 💼 Previously worked on **startup, freelance, volunteer, and research projects**
 * 🚴 Developed an AI-powered **Smart Bicycle Safety System**
 * 🤝 Open to collaborating on **AI, MERN, Flutter, IoT, and Open Source Projects**
-* 💡 I enjoy building products that connect **software, AI, and hardware**.
-
-> *"I build intelligent systems that bridge AI with the physical world."*
+* 💡 I enjoy building products that connect **software, AI, and hardware**
 
 ---
 
