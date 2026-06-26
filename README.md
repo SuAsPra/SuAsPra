@@ -45,10 +45,10 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nodejs,express,mongodb,firebase,flutter,arduino,git,github,linux,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nodejs,express,mongodb,flutter,arduino,git,github,linux,vscode,figma"/>
 </p>
 
-**Also worked with:** React Native • Expo • TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • Jupyter • Google Colab • Postman • REST APIs
+**Also worked with:** React Native • Expo • TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • Jupyter • Google Colab
 
 ---
 
