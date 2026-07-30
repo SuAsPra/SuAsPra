@@ -19,8 +19,8 @@
 ## 👨‍💻 About Me
 
 * 🔭 Passionate about **Artificial Intelligence, Full-Stack Development, Mobile Apps, and Embedded Systems**
-* 🔬 Worked as a **Machine Learning Intern**, **React Native App Developer**, **Embedded Systems Intern**, and **Freelance Web Developer**
-* 🚴 Developed an AI-powered **Smart Bicycle Safety System** *(Patent Application Submitted)*
+* 🔬 Worked on **Machine Learning Research**, **Flutter App Development**, **Embedded Systems**, and **Freelance Web Development**
+* 🚴 Developed an AI-powered **Smart Bicycle Safety System**
 * 💡 I enjoy building products that combine **AI, software, and hardware**
 * 🤝 Open to collaborating on **AI, MERN, Flutter, IoT, and Open Source Projects**
 
