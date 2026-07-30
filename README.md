@@ -36,7 +36,7 @@
 * 🌍 **Sahel Women Education Connect Website**
 * 🏢 **Sri Kamatchi Food Products Website**
 * 🌦️ **Weather Sense (MERN)**
-* ⭐ **Anime Wishlist (First website!)**
+* ⭐ **Anime Wishlist WebApp (My First website)**
 * 📈 **Graph Equation Simulator**
 * 🤖 **Arduino & ESP32 Embedded Systems Projects**
 
