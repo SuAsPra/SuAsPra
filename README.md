@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suriyan Loganathan</h1>
 
 <h3 align="center">
-🚀 AI/ML Enthusiast • Full-Stack Developer • Mobile App Developer • IoT & Embedded Systems Engineer
+🚀 AI/ML Engineer • Full-Stack Developer • Mobile App Developer • IoT & Embedded Systems Enthusiast
 </h3>
 
 <p align="center">
@@ -18,27 +18,47 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Passionate about **Artificial Intelligence, Full-Stack Development, Mobile Apps, and Embedded Systems**
-* 🔬 Worked on **Machine Learning Research**, **Flutter App Development**, **Embedded Systems**, and **Freelance Web Development**
-* 🚴 Developed an AI-powered **Smart Bicycle Safety System**
-* 💡 I enjoy building products that combine **AI, software, and hardware**
-* 🤝 Open to collaborating on **AI, MERN, Flutter, IoT, and Open Source Projects**
+- 🎓 Third Year B.Tech Computer Science & Engineering (AI & Robotics) @ **VIT Chennai** (CGPA: **9.49**)
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Full-Stack Development, Mobile Applications and Embedded Systems**
+- 💻 Built projects spanning **AI, MERN Stack, Flutter, IoT, Research Software and Embedded Systems**
+- 🔬 Contributed to **Machine Learning research**, **Building Information Modelling (BIM) automation**, and **IoT validation studies**
+- 🌐 Developed websites and software solutions for NGOs, businesses and research projects
+- 💡 I enjoy building products that combine **AI + Software + Hardware** to solve real-world problems
+- 🤝 Open to collaborating on **AI, Computer Vision, MERN Stack, Flutter, IoT, Robotics and Open Source Projects**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-* 🚴 **Smart Bicycle Safety System** *(AI + IoT + MERN + APP)*
-* 🧠 **CBR Prediction using Machine Learning**
-* 📖 **AI Storytelling Platform** *(24-Hour Hackathon)*
-* 🌐 **Narrative Portfolio (MERN)**
-* ❤️ **HopeEver NGO Website**
-* 🌍 **Sahel Women Education Connect Website**
-* 🏢 **Sri Kamatchi Food Products Website**
-* 🌦️ **Weather Sense (MERN)**
-* ⭐ **Anime Wishlist WebApp (My First website)**
-* 📈 **Graph Equation Simulator**
-* 🤖 **Arduino & ESP32 Embedded Systems Projects**
+### 🤖 AI • Machine Learning • Research
+
+- 🚲 **AI-Powered Smart Bicycle Safety System** *(AI + Flutter + IoT + ESP32 + MERN)*
+- 🧠 **Machine Learning Study on Soil CBR Prediction**
+- 🏗 **Green BIM Sustainability Scorecard (pyRevit Plugin)**
+- 💧 **Water Detection Research Validation & Paper Contribution**
+
+### 💻 Full Stack Development
+
+- 🏥 **MedQuick** *(MERN Medicine Delivery Platform - In Progress)*
+- ❤️ **Hospital Blood Management System**
+- 🌦️ **Weather Sense** *(MERN Weather Dashboard)*
+- 🌐 **HopeEver NGO Website**
+- 🌍 **SAHEL Women Education Connect Website**
+- 🏢 **Sri Kamatchi Food Products Website**
+- 💼 **VITADATA Internship Application**
+
+### 📱 Mobile Development
+
+- 📲 Flutter Smart Bicycle Safety App
+- 🛒 React Native E-Commerce App
+- 📖 AI Narrative Portfolio *(InterpretX Hackathon)*
+
+### 🤖 Embedded Systems & IoT
+
+- Arduino & ESP32 Projects
+- IoT Prototypes
+- Sensor Interfacing
+- Embedded Systems Applications
 
 ---
 
@@ -48,11 +68,26 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nodejs,express,mongodb,flutter,arduino,git,github,linux,vscode,figma"/>
 </p>
 
-**Also worked with:** React Native • Expo • TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • Jupyter • Google Colab
+### Also Worked With
+
+TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV • Jupyter Notebook • Google Colab • React Native • Expo • MATLAB • Cisco Packet Tracer • ModelSim • EMU8086 • Tinkercad
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience Highlights
+
+- 💻 Full-Stack Development Intern – **VITADATA Solutions**
+- 🌐 Freelance Web Developer for NGOs & Business Clients
+- 🔬 Machine Learning & Research Software Contributor
+- 📄 Research Paper Documentation & Validation
+- 👨‍🏫 Volunteer Teacher & Community Contributor
+
+---
+
+## 📊 GitHub
+
+- 🚀 **30+ repositories** across AI, Machine Learning, Full-Stack Development, Mobile Apps, Embedded Systems and Research Software.
+- ⭐ Featured work includes production-style applications, research projects, IoT systems, hackathons and freelance client work.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuAsPra&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -75,12 +110,15 @@
 
 ## 📫 Connect With Me
 
-📧 **[suriyanloganathan@gmail.com](mailto:suriyanloganathan@gmail.com)**
+📧 **Email:** [suriyanloganathan@gmail.com](mailto:suriyanloganathan@gmail.com)
+
 💼 **LinkedIn:** https://linkedin.com/in/suriyan-loganathan-b1116b320
+
 🧩 **LeetCode:** https://leetcode.com/u/suriyanloganathan/
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ <b>Thanks for visiting my profile!</b><br>
+Feel free to explore my repositories and connect with me.
 </p>
