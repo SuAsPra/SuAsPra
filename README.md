@@ -45,7 +45,7 @@
 
 ### 🌐 Client & Industry Work
 
-- 💼 **VITADATA Patients Mobile App** *(Flutter • REST APIs • Mobile App Development)*
+- 💼 **VITADATA Patients Mobile App** *(Flutter • REST APIs • Mobile App Development)* *(https://github.com/SuAsPra/Vitadata_Patients_App)* *(https://www.vitadata.tech/)*
 - ❤️ **HopeEver NGO Website** *(HTML • CSS • JavaScript • Vercel)* *(https://hopeever.org/)*
 - 🌍 **SAHEL Women Education Connect Website** *(HTML • CSS • JavaScript • Render • Google Apps Script • Google Sheets API)* *(https://swecafrica-org.onrender.com/)*
 - 🏢 **Sri Kamatchi Food Products Website** *(WordPress • Elementor • Platform Tools)* *(https://srikamatchifoods.in/)*
