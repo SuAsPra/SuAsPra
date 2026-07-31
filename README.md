@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suriyan Loganathan</h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer • Full-Stack Developer • Mobile App Developer • IoT & Embedded Systems Enthusiast
+🚀 AI/ML • Full-Stack • Flutter • IoT & Embedded Systems Developer
 </h3>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 - 🎓 Third Year B.Tech Computer Science & Engineering (AI & Robotics) @ **VIT Chennai** (CGPA: **9.49**)
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Full-Stack Development, Mobile Applications and Embedded Systems**
-- 💻 Built projects spanning **AI, MERN Stack, Flutter, IoT, Research Software and Embedded Systems**
+- 💻 Built 15+ projects spanning AI/ML, Full-Stack Development, Mobile Applications, IoT, Research Software and Embedded Systems
 - 🔬 Contributed to **Machine Learning research**, **Building Information Modelling (BIM) automation**, and **IoT validation studies**
-- 🌐 Developed websites and software solutions for NGOs, businesses and research projects
+- 🌐 Delivered software solutions for NGOs, businesses, academic research and healthcare applications
 - 💡 I enjoy building products that combine **AI + Software + Hardware** to solve real-world problems
 - 🤝 Open to collaborating on **AI, Computer Vision, MERN Stack, Flutter, IoT, Robotics and Open Source Projects**
 
@@ -32,35 +32,34 @@
 
 ### 🤖 AI • Machine Learning • Research
 
-- 🚲 **AI-Powered Smart Bicycle Safety System** *(AI + Flutter + IoT + ESP32 + MERN)*
-- 🧠 **Machine Learning Study on Soil CBR Prediction**
-- 🏗 **Green BIM Sustainability Scorecard (pyRevit Plugin)**
+- 🚲 **AI-Powered Smart Bicycle Safety System** *(Flutter • ESP32 • Arduino • MERN • Computer Vision • IoT)*
+- 🧠 **Machine Learning Study on Soil CBR Prediction** *(Python • Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib)*
+- 🏗 **Green BIM Sustainability Scorecard (pyRevit Plugin)** *(Python • pyRevit • Autodesk Revit • BIM Automation)*
 
 ### 💻 Full-Stack Development
 
-- 🏥 **MedQuick** *(In Progress)*
-- ❤️ **Hospital Blood Bank Management System**
-- 🌦️ **Weather Sense** *(MERN Weather Dashboard)*
-- 📖 **AI Narrative Portfolio** *(InterpretX Hackathon)*
+- 🏥 **MedQuick** *(In Progress)* *(MERN • Redux and Software Dev Toolkit • Material UI)*
+- ❤️ **Hospital Blood Bank Management System** *(MERN)*
+- 🌦️ **Weather Sense** *(MERN • OpenWeather API)*
+- 📖 **AI Narrative Portfolio** *(MERN • Gemini API)*
 
 ### 🌐 Client & Industry Work
 
-- 💼 **VITADATA Patients Mobile App** *(App Development Intern)*
-- ❤️ **HopeEver NGO Website** *(https://hopeever.org/)*
-- 🌍 **SAHEL Women Education Connect Website** *(https://swecafrica-org.onrender.com/)*
-- 🏢 **Sri Kamatchi Food Products WordPress Website** *(https://srikamatchifoods.in/)*
+- 💼 **VITADATA Patients Mobile App** *(Flutter • REST APIs • Mobile App Development)*
+- ❤️ **HopeEver NGO Website** *(HTML • CSS • JavaScript • Vercel)* *(https://hopeever.org/)*
+- 🌍 **SAHEL Women Education Connect Website** *(HTML • CSS • JavaScript • Render • Google Apps Script • Google Sheets API)* *(https://swecafrica-org.onrender.com/)*
+- 🏢 **Sri Kamatchi Food Products Website** *(WordPress • Elementor • Platform Tools)* *(https://srikamatchifoods.in/)*
 
 ### 📱 Mobile Development
 
-- 📲 Flutter Smart Bicycle Safety Application
-- 🛒 React Native E-Commerce Application
+- 📲 **Flutter Smart Bicycle Safety Application** *(Flutter • Dart • REST APIs • Google Maps • IoT Integration)*
+- 🛒 **React Native E-Commerce Application** *(React Native • Expo • JavaScript)*
 
 ### 🤖 Embedded Systems & IoT
 
-- Arduino & ESP32 Projects
-- IoT Automation & Sensor Interfacing
-- Embedded Systems Applications
-- Wokwi/TinkerCAD Hardware Simulations
+- 🤖 **Arduino & ESP32 Embedded Projects** *(Arduino • ESP32 • Embedded C • Sensors • Serial Comm)*
+- 🌐 **IoT Automation & Sensor Interfacing** *(ESP32 • Arduino • Wi-Fi • MQTT/HTTP • Sensors • Drivers • Motors)*
+- 🧪 **Hardware Simulation** *(Wokwi • TinkerCAD • Arduino)*
 
 ---
 
@@ -80,15 +79,14 @@ TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV 
 
 - 💻 Full-Stack Development Intern – **VITADATA Solutions**
 - 🌐 Freelance Web Developer for NGOs & Business Clients
-- 🔬 Machine Learning & Research Software Contributor
-- 📄 Research Paper Documentation & Validation
-- 👨‍🏫 Volunteer Teacher & Community Contributor
+- 🔬 Machine Learning & Research Software Contributon
+- 👨‍🏫 Projects & Community Contributor
 
 ---
 
 ## 📊 GitHub
 
-- 🚀 **30+ repositories** across AI, Machine Learning, Full-Stack Development, Mobile Apps, Embedded Systems and Research Software.
+- 🚀 **15+ repositories** across AI, Machine Learning, Full-Stack Development, Mobile Apps, Embedded Systems and Research Software.
 - ⭐ Featured work includes production-style applications, research projects, IoT systems, hackathons and freelance client work.
 
 <p align="center">
