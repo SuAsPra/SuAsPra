@@ -74,16 +74,10 @@
 TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV • Jupyter Notebook • Google Colab • React Native • Expo • MATLAB • Cisco Packet Tracer • ModelSim • EMU8086 • Tinkercad
 
 ---
-
-## 📊 GitHub
-
-- 🚀 **15+ repositories** across AI, Machine Learning, Full-Stack Development, Mobile Apps, Embedded Systems and Research Software.
-- ⭐ Featured work includes production-style applications, research projects, IoT systems, hackathons and freelance client work.
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuAsPra&theme=tokyonight&hide_border=true" width="48%" />
 </p>
----
+
 
 ## 📫 Connect With Me
 
