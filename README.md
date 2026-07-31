@@ -75,15 +75,6 @@ TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV 
 
 ---
 
-## 💼 Experience Highlights
-
-- 💻 Full-Stack Development Intern – **VITADATA Solutions**
-- 🌐 Freelance Web Developer for NGOs & Business Clients
-- 🔬 Machine Learning & Research Software Contributon
-- 👨‍🏫 Projects & Community Contributor
-
----
-
 ## 📊 GitHub
 
 - 🚀 **15+ repositories** across AI, Machine Learning, Full-Stack Development, Mobile Apps, Embedded Systems and Research Software.
