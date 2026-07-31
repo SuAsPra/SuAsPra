@@ -33,7 +33,7 @@
 ### 🤖 AI • Machine Learning • Research
 
 - 🚲 **AI-Powered Smart Bicycle Safety System** *(Flutter • ESP32 • Arduino • MERN • Computer Vision • IoT)*
-- 🧠 **Machine Learning Study on Soil CBR Prediction** *(Python • Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib)*
+- 🧠 **Machine Learning Study on Soil CBR Prediction** *(Python • Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib)* *(https://ml-study-on-cbr-prediction.vercel.app/)*
 - 🏗 **Green BIM Sustainability Scorecard (pyRevit Plugin)** *(Python • pyRevit • Autodesk Revit • BIM Automation)*
 
 ### 💻 Full-Stack Development
