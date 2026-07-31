@@ -35,30 +35,32 @@
 - 🚲 **AI-Powered Smart Bicycle Safety System** *(AI + Flutter + IoT + ESP32 + MERN)*
 - 🧠 **Machine Learning Study on Soil CBR Prediction**
 - 🏗 **Green BIM Sustainability Scorecard (pyRevit Plugin)**
-- 💧 **Water Detection Research Validation & Paper Contribution**
 
-### 💻 Full Stack Development
+### 💻 Full-Stack Development
 
-- 🏥 **MedQuick** *(MERN Medicine Delivery Platform - In Progress)*
-- ❤️ **Hospital Blood Management System**
+- 🏥 **MedQuick** *(In Progress)*
+- ❤️ **Hospital Blood Bank Management System**
 - 🌦️ **Weather Sense** *(MERN Weather Dashboard)*
-- 🌐 **HopeEver NGO Website**
-- 🌍 **SAHEL Women Education Connect Website**
-- 🏢 **Sri Kamatchi Food Products Website**
-- 💼 **VITADATA Internship Application**
+- 📖 **AI Narrative Portfolio** *(InterpretX Hackathon)*
+
+### 🌐 Client & Industry Work
+
+- 💼 **VITADATA Patients Mobile App** *(App Development Intern)*
+- ❤️ **HopeEver NGO Website** *(https://hopeever.org/)*
+- 🌍 **SAHEL Women Education Connect Website** *(https://swecafrica-org.onrender.com/)*
+- 🏢 **Sri Kamatchi Food Products WordPress Website** *(https://srikamatchifoods.in/)*
 
 ### 📱 Mobile Development
 
-- 📲 Flutter Smart Bicycle Safety App
-- 🛒 React Native E-Commerce App
-- 📖 AI Narrative Portfolio *(InterpretX Hackathon)*
+- 📲 Flutter Smart Bicycle Safety Application
+- 🛒 React Native E-Commerce Application
 
 ### 🤖 Embedded Systems & IoT
 
 - Arduino & ESP32 Projects
-- IoT Prototypes
-- Sensor Interfacing
+- IoT Automation & Sensor Interfacing
 - Embedded Systems Applications
+- Wokwi/TinkerCAD Hardware Simulations
 
 ---
 
