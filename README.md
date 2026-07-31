@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Suriyan Loganathan</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full-Stack+Developer;Flutter+Developer;Embedded+Systems+Enthusiast;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Suriyan+Loganathan" alt="Typing SVG" />
 </p>
+
+<h3 align="center">
+🚀 AI/ML • Full-Stack • Flutter • IoT & Embedded Systems Developer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suriyan-loganathan-b1116b320/" target="_blank">
@@ -16,7 +18,9 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=100000&color=7EE787&center=true&vCenter=true&width=320&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+</h2>
 
 - 🎓 Third Year B.Tech Computer Science & Engineering (AI & Robotics) @ **VIT Chennai** (CGPA: **9.49**)
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Full-Stack Development, Mobile Applications and Embedded Systems**
@@ -27,7 +31,9 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=100000&color=F39C12&center=true&vCenter=true&width=460&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
+</h2>
 
 ### 🤖 AI • Machine Learning • Research
 
@@ -62,7 +68,9 @@
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=100000&color=FF6B6B&center=true&vCenter=true&width=360&lines=%F0%9F%9B%A0+Tech+Stack" alt="Tech Stack" />
+</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nodejs,express,mongodb,flutter,arduino,git,github,linux,vscode,figma"/>
@@ -77,6 +85,8 @@ TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuAsPra&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+
+## 📫 Connect With Me
 
 📧 **Email:** [suriyanloganathan@gmail.com](mailto:suriyanloganathan@gmail.com)
 
