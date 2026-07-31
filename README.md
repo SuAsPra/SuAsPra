@@ -78,8 +78,6 @@ TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV 
 </p>
 
 
-## 📫 Connect With Me
-
 📧 **Email:** [suriyanloganathan@gmail.com](mailto:suriyanloganathan@gmail.com)
 
 <p align="center">
