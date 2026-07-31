@@ -32,22 +32,22 @@
 ### 🤖 AI • Machine Learning • Research
 
 - 🚲 **AI-Powered Smart Bicycle Safety System** *(Flutter • ESP32 • Arduino • MERN • Computer Vision • IoT)*
-- 🧠 **Machine Learning Study on Soil CBR Prediction** *(Python • Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib)* *(https://ml-study-on-cbr-prediction.vercel.app/)*
+- 🧠 **Machine Learning Study on Soil CBR Prediction** *(Python • Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib)* • [🌐 Live Demo](https://ml-study-on-cbr-prediction.vercel.app/)
 - 🏗 **Green BIM Sustainability Scorecard (pyRevit Plugin)** *(Python • pyRevit • Autodesk Revit • BIM Automation)*
 
 ### 💻 Full-Stack Development
 
-- 🏥 **MedQuick** *(In Progress)* *(MERN • Redux and Software Dev Toolkit • Material UI)*
+- 🏥 **MedQuick** *(In Progress)* *(MERN • Redux Toolkit • Material UI)*
 - ❤️ **Hospital Blood Bank Management System** *(MERN)*
 - 🌦️ **Weather Sense** *(MERN • OpenWeather API)*
 - 📖 **AI Narrative Portfolio** *(MERN • Gemini API)*
 
 ### 🌐 Client & Industry Work
 
-- 💼 **VITADATA Patients Mobile App** *(Flutter • REST APIs • Mobile App Development)* *(https://github.com/SuAsPra/Vitadata_Patients_App)* *(https://www.vitadata.tech/)*
-- ❤️ **HopeEver NGO Website** *(HTML • CSS • JavaScript • Vercel)* *(https://hopeever.org/)*
-- 🌍 **SAHEL Women Education Connect Website** *(HTML • CSS • JavaScript • Render • Google Apps Script • Google Sheets API)* *(https://swecafrica-org.onrender.com/)*
-- 🏢 **Sri Kamatchi Food Products Website** *(WordPress • Elementor • Platform Tools)* *(https://srikamatchifoods.in/)*
+- 💼 **VITADATA Patients Mobile App** *(Flutter • REST APIs • Mobile App Development)* • [📂 Repository](https://github.com/SuAsPra/Vitadata_Patients_App) • [🌐 Company](https://www.vitadata.tech/)
+- ❤️ **HopeEver NGO Website** *(HTML • CSS • JavaScript • Vercel)* • [🌐 Live Website](https://hopeever.org/)
+- 🌍 **SAHEL Women Education Connect Website** *(HTML • CSS • JavaScript • Render • Google Apps Script • Google Sheets API)* • [🌐 Live Website](https://swecafrica-org.onrender.com/)
+- 🏢 **Sri Kamatchi Food Products Website** *(WordPress • Elementor • Platform Tools)* • [🌐 Live Website](https://srikamatchifoods.in/)
 
 ### 📱 Mobile Development
 
