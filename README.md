@@ -24,7 +24,6 @@
 - 🔬 Contributed to **Machine Learning research**, **Building Information Modelling (BIM) automation**, and **IoT validation studies**
 - 🌐 Delivered software solutions for NGOs, businesses, academic research and healthcare applications
 - 💡 I enjoy building products that combine **AI + Software + Hardware** to solve real-world problems
-- 🤝 Open to collaborating on **AI, Computer Vision, MERN Stack, Flutter, IoT, Robotics and Open Source Projects**
 
 ---
 
