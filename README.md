@@ -19,7 +19,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=100000&color=7EE787&center=true&vCenter=true&width=320&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=7EE787&center=true&vCenter=true&width=320&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </h2>
 
 - 🎓 Third Year B.Tech Computer Science & Engineering (AI & Robotics) @ **VIT Chennai** (CGPA: **9.49**)
@@ -32,7 +32,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=100000&color=F39C12&center=true&vCenter=true&width=460&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=F39C12&center=true&vCenter=true&width=460&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
 </h2>
 
 ### 🤖 AI • Machine Learning • Research
@@ -69,7 +69,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=100000&color=FF6B6B&center=true&vCenter=true&width=360&lines=%F0%9F%9B%A0+Tech+Stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF6B6B&center=true&vCenter=true&width=360&lines=%F0%9F%9B%A0+Tech+Stack" alt="Tech Stack" />
 </h2>
 
 <p align="center">
