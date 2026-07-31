@@ -100,23 +100,9 @@ TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuAsPra&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 📧 **Email:** [suriyanloganathan@gmail.com](mailto:suriyanloganathan@gmail.com)
-
-💼 **LinkedIn:** https://linkedin.com/in/suriyan-loganathan-b1116b320
-
-🧩 **LeetCode:** https://leetcode.com/u/suriyanloganathan/
-
----
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b><br>
