@@ -79,7 +79,7 @@
 
 ### Also Worked With
 
-TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV • Jupyter Notebook • Google Colab • React Native • Expo • MATLAB • Cisco Packet Tracer • ModelSim • EMU8086 • Tinkercad
+TensorFlow • TensorFlow Lite • Scikit-learn • Pandas • NumPy • OpenCV • Jupyter Notebook • Google Colab • React Native • Expo • MATLAB • Cisco Packet Tracer • Amazon Web Service • EMU8086 • Tinkercad • Docker
 
 ---
 <p align="center">
